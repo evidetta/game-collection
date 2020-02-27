@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = ../game-collection-frontend
+[submodule "backend"]
+	path = backend
+	url = ../game-collection-backend
